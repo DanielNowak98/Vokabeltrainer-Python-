@@ -1,17 +1,10 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[26]:
-
+# Vokabeltrainerprogramm bitte die README lesen vor der Verwendung / Vocabulary trainer please reade README before use. 
 
 import pandas as pd
 import random
 import os
 from os import system, name 
 import time
-
-
-# In[ ]:
 
 
 df = pd.read_excel('Vokabelliste.xlsx')
