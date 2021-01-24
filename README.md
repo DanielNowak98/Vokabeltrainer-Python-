@@ -5,3 +5,9 @@ A small vocabulary trainer. If you have your vocabulary list in an Excel spreads
 
 --Deutsch--
 Ein kleiner Vokabeltrainer. Sofern man seine Vokabelliste als Excel Tabelle vorliegen hat, lässt sich mit diesem Python Programm ein Vokabeltest gestalten.
+
+
+
+Vorschaubild:
+
+![image](https://user-images.githubusercontent.com/38864627/105643775-2988cf00-5e92-11eb-86a2-d58b08333a42.png)
