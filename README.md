@@ -24,3 +24,4 @@ In order to use the vocabulary trainer, the vocabulary to be learned must be sto
 
 Um den Vokabeltrainer nutzen zu können, müssen die Vokabeln die gelernt werden sollen in der angefügten Excel Datei hinterlegt sein.
 
+![image](https://user-images.githubusercontent.com/38864627/105643978-75884380-5e93-11eb-845f-e2c0fc9d34da.png)
